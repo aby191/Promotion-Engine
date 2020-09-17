@@ -70,37 +70,4 @@ namespace Promotion_Engine
 
         }
     }
-
-
-    interface IPack { int GetPrice(int count, int costOfA); }
-    
-    class AProductPack : IPack
-    {
-        public int ProductsCount { get; set; }
-        public int GetPrice(int counterofA, int costOfA)
-        {
-            return (counterofA / 3) * 130 + (counterofA % 3 * costOfA);
-        }
-    }
-    class BProductPack : IPack
-    {
-        public int ProductsCount { get; set; }
-        public int GetPrice(int counterofB, int costOfB)
-        {
-            return (counterofB / 2) * 45 + (counterofB % 2 * costOfB);
-        }
-    }
-    class CProductPack : IPack
-    {
-        public int ProductsCount { get; set; }
-        public int GetPrice(int counterofC, int costOfC) => (counterofC * costOfC);
-    }
-    class DProductPack : IPack
-    {
-        public int ProductsCount { get; set; }
-        public int GetPrice(int counterofD, int costOfD)
-        {
-            return (counterofD * costOfD);
-        }
-    }
 }

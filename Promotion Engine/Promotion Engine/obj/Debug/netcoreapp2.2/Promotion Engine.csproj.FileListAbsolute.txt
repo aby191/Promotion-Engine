@@ -1,11 +1,10 @@
-C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\obj\Debug\netcoreapp2.2\Promotion Engine.csproj.CoreCompileInputs.cache
-C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\obj\Debug\netcoreapp2.2\Promotion Engine.AssemblyInfoInputs.cache
-C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\obj\Debug\netcoreapp2.2\Promotion Engine.AssemblyInfo.cs
 C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\bin\Debug\netcoreapp2.2\Promotion Engine.deps.json
 C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\bin\Debug\netcoreapp2.2\Promotion Engine.runtimeconfig.json
 C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\bin\Debug\netcoreapp2.2\Promotion Engine.runtimeconfig.dev.json
 C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\bin\Debug\netcoreapp2.2\Promotion Engine.dll
 C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\bin\Debug\netcoreapp2.2\Promotion Engine.pdb
+C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\obj\Debug\netcoreapp2.2\Promotion Engine.csproj.CoreCompileInputs.cache
+C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\obj\Debug\netcoreapp2.2\Promotion Engine.AssemblyInfoInputs.cache
+C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\obj\Debug\netcoreapp2.2\Promotion Engine.AssemblyInfo.cs
 C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\obj\Debug\netcoreapp2.2\Promotion Engine.dll
 C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\obj\Debug\netcoreapp2.2\Promotion Engine.pdb
-C:\Users\abhinav upadhyay\Desktop\Promotion Engine\Promotion Engine\Promotion Engine\obj\Debug\netcoreapp2.2\Promotion Engine.csprojAssemblyReference.cache
