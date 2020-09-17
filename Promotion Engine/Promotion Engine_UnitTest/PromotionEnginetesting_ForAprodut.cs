@@ -4,7 +4,7 @@ using Xunit;
 
 namespace Promotion_Engine_UnitTest
 {
-    public class PromotionEngine
+    public class PromotionEnginetesting_ForAprodut
     {
         [Fact]
         public void checkAProductValueWithQty()
