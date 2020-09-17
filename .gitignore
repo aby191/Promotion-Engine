@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Promotion Engine/.vs/Promotion Engine/v15/Server/sqlite3/storage.ide-wal
+/Promotion Engine/.vs/Promotion Engine/v15/Server/sqlite3/storage.ide-shm
+/Promotion Engine/.vs/Promotion Engine/v15/Server/sqlite3/storage.ide
+/Promotion Engine/.vs/Promotion Engine/v15/Server/sqlite3/db.lock
+/Promotion Engine/.vs/Promotion Engine/v15/Server/sqlite3
