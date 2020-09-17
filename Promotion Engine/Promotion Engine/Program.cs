@@ -30,14 +30,10 @@ namespace Promotion_Engine
 
         public static int GetTotalCostofProducts(List<Product> products)
         {
-            int counterofA = 0;
-            int costOfA = 50;
-            int counterofB = 0;
-            int costOfB = 30;
-            int CounterofC = 0;
-            int costOfC = 20;
-            int CounterofD = 0;
-            int costOfD = 15;
+            int counterofA = 0, costOfA = 50;
+            int counterofB = 0, costOfB = 30;
+            int CounterofC = 0, costOfC = 20;
+            int CounterofD = 0, costOfD = 15;
             foreach (Product pr in products)
             {
                 if (pr.Id == "A" || pr.Id == "a")
