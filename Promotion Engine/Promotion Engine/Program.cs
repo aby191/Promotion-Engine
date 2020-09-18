@@ -8,25 +8,34 @@ namespace Promotion_Engine
     {
         static void Main(string[] args)
         {
-            for (int counter = 0; ; counter++)
+            try
             {
-                List<Product> products = new List<Product>();
-
-                Console.WriteLine("\n" + "Please enter the total number of order");
-                int totalorders = Convert.ToInt32(Console.ReadLine());
-                for (int numofproduct = 0; numofproduct < totalorders; numofproduct++)
+                for (int counter = 0; ; counter++)
                 {
-                    Console.WriteLine("Please enter product from the list:A,B,C or D");
-                    string productType = Console.ReadLine();
-                    Product product = new Product(productType);
-                    products.Add(product);
-                }
+                    List<Product> products = new List<Product>();
 
-                int totalCost = GetTotalCostofProducts(products);
-                Console.WriteLine("The Total Price of order is " + totalCost);
+                    Console.WriteLine("\n" + "Please enter the total number of order");
+                    int totalorders = Convert.ToInt32(Console.ReadLine());
+                    for (int numofproduct = 0; numofproduct < totalorders; numofproduct++)
+                    {
+                        Console.WriteLine("Please enter product from the list:A,B,C or D");
+                        string productType = Console.ReadLine();
+                        Product product = new Product(productType);
+                        products.Add(product);
+                    }
+
+                    int totalCost = GetTotalCostofProducts(products);
+                    Console.WriteLine("The Total Price of order is " + totalCost);
+                }
+                
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
             }
             Console.ReadLine();
         }
+    
 
         public static int GetTotalCostofProducts(List<Product> products)
         {
